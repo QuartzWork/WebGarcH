@@ -11,5 +11,5 @@ python(3) -m http.server *PORT*
 # Documentation
 All documentation can be found at https://github.com/QuartzWork/BloxDox
 
-# credits
--Gfiles - https://github.com/BinBashBanana/gfiles
+# Credits
+- Gfiles - https://github.com/BinBashBanana/gfiles
